@@ -13,3 +13,5 @@ memcpy(a, src, strlen(src)+1);
 a[len]='\0';
 return a;
 }
+
+/* aa  */
